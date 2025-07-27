@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Baswadeep </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Engineer.+Builder.+Learner.;Patent+Holder+%F0%9F%8F%9F%EF%B8%8F.;AI%2FML+%7C+OpenCV+%7C+Web+Dev.;EdTech+%7C+Hackathons+%7C+Human+Values;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Engineer.+Builder.+Learner.;Patent+Holder+%F0%9F%8F%9F%EF%B8%8F.;AI%2FML+%7C+Web+Dev.;EdTech+%7C+Hackathons+%7C+Human+Values;" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## My Achievement
 
-<h3 align="center" style="color:#ffdc00;">I am a Patent Holder</h3>
+<h3 align="center" style="color:#ffdc00;">Patent Holder</h3>
 
 <p align="center">
   <strong>
@@ -38,7 +38,14 @@
 > Built using **sensors, fluid automation systems**, and embedded technology to enhance patient care.
 
 ---
+## My Projects
 
+- **MediShield** : Health emergency alert system with GPS-based real-time location dispatching.
+- **Bank Slot Scheduler** : Appointment scheduling system to manage visitor slots at banks.
+- **Swapzo** : Global barter platform to exchange skills, services, and goods.
+- **Anti-DDoS Monitoring Dashboard** : Visual cyber analytics dashboard to monitor and prevent network attacks.
+  
+---
 ##  About Me
 
 -  Computer Engineering Student @ **VIT Pune**
@@ -51,9 +58,9 @@
 ## 🛠 Tech Stack
 
 ```yaml
-Languages:     C++ | Python | JavaScript | HTML/CSS
+Languages:     C | C++ | Python | JavaScript | HTML/CSS
 Frontend:      React.js | Tailwind CSS | Bootstrap
 Backend:       MongoDB | Firebase
 AI/ML & CV:    OpenCV
 Tools:         Git | GitHub | Figma | Arduino IDE | VS Code
-Platforms:     Vercel
+Platforms:     Vercel | Firebase
